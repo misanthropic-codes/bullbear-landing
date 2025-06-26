@@ -24,58 +24,91 @@
   },
   "founders": [
     {
-  "id": 1,
-  "name": "Aryan Raj",
-  "role": "Founder & Product Lead",
-  "shortBio": "Tech enthusiast and AI innovator",
-  "fullBio": "Aryan is a passionate product builder and AI enthusiast. He has been a finalist at IIT Bombay E-Summit and won HIT-A-Thon for his innovative thinking. He leads BullBear AI’s product direction with a focus on intuitive design and impactful functionality.",
-  "expertise": ["Product Management", "AI Strategy", "Innovation", "Leadership"],
-  "achievements": ["IIT Bombay E-Summit Finalist", "HIT-A-Thon Winner"],
-  "image": "https://drive.google.com/uc?id=17bWvMuGmcuvzUGRSPwIIPYerxMY82Z7Q",
-  "linkedin": "https://www.linkedin.com/in/aryan-raj-754326231",
-  "twitter": "",
-  "email": "aryan@bullbearai.com"
-},
-{
-  "id": 2,
-  "name": "Abhishek Kumar",
-  "role": "Co-Founder & Developer",
-  "shortBio": "Full-stack developer passionate about building scalable AI products",
-  "fullBio": "Abhishek is a full-stack developer and co-founder at BullBear AI, driving the platform’s technical backbone. With deep knowledge in the MERN stack, system design, and scalable architecture, he’s known for converting complex problems into practical solutions. He’s also a winner of Inno-v-sion and IIT Bhilai Hackathon, showcasing his problem-solving edge.",
-  "expertise": ["Full-Stack Development", "Trading Algorithms", "System Design", "AI Integration"],
-  "achievements": ["Winner - Inno-v-sion", "Winner - IIT Bhilai Hackathon"],
-  "image": "https://media.licdn.com/dms/image/v2/D5603AQHJKIDwmVdjNQ/profile-displayphoto-shrink_400_400/B56ZSeFmoKGUAg-/0/1737819057959?e=1756339200&v=beta&t=e4zmx-UC9061stpGCja_T1EjG0hy2gbRGc6Blu1WIUY",
-  "linkedin": "https://www.linkedin.com/in/abhishek-codes/",
-  "twitter": "https://x.com/misanthropic-codes",
-  "email": "abhishek@bullbearai.com"
-},
-{
-  "id": 3,
-  "name": "Abhiraj Adhikary",
-  "role": "Developer",
-  "shortBio": "Aspiring Data Engineer",
-  "fullBio": "Abhiraj is a backend and data enthusiast aiming to become a skilled data engineer. He brings curiosity, consistency, and a growing passion for scalable data solutions to the BullBear AI team.",
-  "expertise": ["Data Engineering", "Backend Development", "Database Systems"],
-  "achievements": [],
-  "image": "https://ibb.co/rf7YLjgL",
-  "linkedin": "https://linkedin.com/in/abhirajadhikary06",
-  "twitter": "https://twitter.com/backbabhiraj",
-  "email": "abhiraj@bullbearai.com"
-},
-{
-  "id": 4,
-  "name": "Anik Chand",
-  "role": "Developer",
-  "shortBio": "Aspiring ML Engineer",
-  "fullBio": "Anik is an aspiring machine learning engineer with a strong foundation in AI concepts and development. At BullBear AI, he’s focused on applying ML solutions to improve prediction accuracy and model performance.",
-  "expertise": ["Machine Learning", "Python", "AI Development"],
-  "achievements": [],
-  "image": "https://ibb.co/hJN2ZXGx",
-  "linkedin": "https://www.linkedin.com/in/anik-chand-3b14b12b6/",
-  "twitter": "https://x.com/anikchand461",
-  "email": "anik@bullbearai.com"
-}
-
+      "id": 1,
+      "name": "Aryan Raj",
+      "role": "Founder & Product Lead",
+      "shortBio": "Tech enthusiast and AI innovator",
+      "fullBio": "Aryan is a passionate product builder and AI enthusiast. He has been a finalist at IIT Bombay E-Summit and won HIT-A-Thon for his innovative thinking. He leads BullBear AI’s product direction with a focus on intuitive design and impactful functionality.",
+      "expertise": [
+        "Product Management",
+        "AI Strategy",
+        "Innovation",
+        "Leadership"
+      ],
+      "achievements": ["IIT Bombay E-Summit Finalist", "HIT-A-Thon Winner"],
+      "image": "https://drive.google.com/thumbnail?id=17bWvMuGmcuvzUGRSPwIIPYerxMY82Z7Q&sz=w400",
+      "linkedin": "https://www.linkedin.com/in/aryan-raj-754326231",
+      "twitter": "",
+      "email": "aryan@bullbearai.com"
+    },
+    {
+      "id": 2,
+      "name": "Abhishek Kumar",
+      "role": "Co-Founder & Developer",
+      "shortBio": "Full-stack developer passionate about building scalable AI products",
+      "fullBio": "Abhishek is a full-stack developer and co-founder at BullBear AI, driving the platform’s technical backbone. With deep knowledge in the MERN stack, system design, and scalable architecture, he’s known for converting complex problems into practical solutions. He’s also a winner of Inno-v-sion and IIT Bhilai Hackathon, showcasing his problem-solving edge.",
+      "expertise": [
+        "Full-Stack Development",
+        "Trading Algorithms",
+        "System Design",
+        "AI Integration"
+      ],
+      "achievements": ["Winner - Inno-v-sion", "Winner - IIT Bhilai Hackathon"],
+      "image": "https://media.licdn.com/dms/image/v2/D5603AQHJKIDwmVdjNQ/profile-displayphoto-shrink_400_400/B56ZSeFmoKGUAg-/0/1737819057959?e=1756339200&v=beta&t=e4zmx-UC9061stpGCja_T1EjG0hy2gbRGc6Blu1WIUY",
+      "linkedin": "https://www.linkedin.com/in/abhishek-codes/",
+      "twitter": "https://x.com/misanthropic-codes",
+      "email": "abhishek@bullbearai.com"
+    },
+    {
+      "id": 3,
+      "name": "Abhiraj Adhikary",
+      "role": "Developer",
+      "shortBio": "Aspiring Data Engineer",
+      "fullBio": "Abhiraj is a backend and data enthusiast aiming to become a skilled data engineer. He brings curiosity, consistency, and a growing passion for scalable data solutions to the BullBear AI team.",
+      "expertise": [
+        "Data Engineering",
+        "Backend Development",
+        "Database Systems"
+      ],
+      "achievements": [],
+      "image": "https://ibb.co/rf7YLjgL",
+      "linkedin": "https://linkedin.com/in/abhirajadhikary06",
+      "twitter": "https://twitter.com/backbabhiraj",
+      "email": "abhiraj@bullbearai.com"
+    },
+    {
+      "id": 4,
+      "name": "Anik Chand",
+      "role": "Developer",
+      "shortBio": "Aspiring ML Engineer",
+      "fullBio": "Anik is an aspiring machine learning engineer with a strong foundation in AI concepts and development. At BullBear AI, he’s focused on applying ML solutions to improve prediction accuracy and model performance.",
+      "expertise": ["Machine Learning", "Python", "AI Development"],
+      "achievements": [],
+      "image": "https://ibb.co/hJN2ZXGx",
+      "linkedin": "https://www.linkedin.com/in/anik-chand-3b14b12b6/",
+      "twitter": "https://x.com/anikchand461",
+      "email": "anik@bullbearai.com"
+    },
+    {
+      "id": 5,
+      "name": "Ayushman Rana",
+      "role": "Co-Founder & Developer",
+      "shortBio": "Full-stack developer with a focus on modern web apps",
+      "fullBio": "Ayushman is a full-stack developer skilled in building scalable and user-friendly applications. With expertise in Next.js, TypeScript, and Tailwind CSS on the frontend, and Node.js with MongoDB on the backend, he crafts complete web solutions. He's also exploring AI integrations, fintech platforms, and developer tooling to broaden his impact.",
+      "expertise": [
+        "Full-Stack Development",
+        "Next.js",
+        "Node.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "MongoDB"
+      ],
+      "achievements": ["HIT-A-Thon Winner"],
+      "image": "https://drive.google.com/thumbnail?id=1ViXABq08cSsTMZCPfbKzs2ZqsfxUr1Qq&sz=w400",
+      "linkedin": "https://www.linkedin.com/in/ayushman-rana-1478b32a5/",
+      "twitter": "https://x.com/ayushman_rana",
+      "email": "ayushmanrana81@gmail.com"
+    }
   ],
   "social": {
     "twitter": "https://twitter.com/bullbearai",
