@@ -60,36 +60,6 @@
       "email": "abhishek@bullbearai.com"
     },
     {
-      "id": 3,
-      "name": "Abhiraj Adhikary",
-      "role": "Developer",
-      "shortBio": "Aspiring Data Engineer",
-      "fullBio": "Abhiraj is a backend and data enthusiast aiming to become a skilled data engineer. He brings curiosity, consistency, and a growing passion for scalable data solutions to the BullBear AI team.",
-      "expertise": [
-        "Data Engineering",
-        "Backend Development",
-        "Database Systems"
-      ],
-      "achievements": [],
-      "image": "https://ibb.co/rf7YLjgL",
-      "linkedin": "https://linkedin.com/in/abhirajadhikary06",
-      "twitter": "https://twitter.com/backbabhiraj",
-      "email": "abhiraj@bullbearai.com"
-    },
-    {
-      "id": 4,
-      "name": "Anik Chand",
-      "role": "Developer",
-      "shortBio": "Aspiring ML Engineer",
-      "fullBio": "Anik is an aspiring machine learning engineer with a strong foundation in AI concepts and development. At BullBear AI, he’s focused on applying ML solutions to improve prediction accuracy and model performance.",
-      "expertise": ["Machine Learning", "Python", "AI Development"],
-      "achievements": [],
-      "image": "https://ibb.co/hJN2ZXGx",
-      "linkedin": "https://www.linkedin.com/in/anik-chand-3b14b12b6/",
-      "twitter": "https://x.com/anikchand461",
-      "email": "anik@bullbearai.com"
-    },
-    {
       "id": 5,
       "name": "Ayushman Rana",
       "role": "Co-Founder & Developer",
